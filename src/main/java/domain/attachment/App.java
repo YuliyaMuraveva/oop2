@@ -1,8 +1,8 @@
 package domain.attachment;
 
-public class graffiti {
+public class App {
     private int id;
-    private int ownerIg;
+    private int name;
     private String photo130;
     private String photo604;
 }

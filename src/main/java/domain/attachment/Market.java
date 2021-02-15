@@ -1,6 +1,6 @@
 package domain.attachment;
 
-public class market {
+public class Market {
     private int id;
     private int ownerId;
     private String title;
